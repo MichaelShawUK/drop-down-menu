@@ -1,0 +1,20 @@
+.default-menu {
+  height: 0;
+  transition: height 300ms ease-in-out;
+}
+
+.grow-menu {
+  height: 152px;
+}
+
+.hide-menu {
+  display: none;
+}
+
+.display-menu {
+  display: block;
+}
+
+* {margin:0}
+
+.blue {background: rgb(151, 184, 221);}
